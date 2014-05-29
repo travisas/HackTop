@@ -54,7 +54,7 @@
 			username="${tomcat-manager-username}"
 			password="${tomcat-manager-password}"
 			path="/${project-name}"
-			war="file:/home/psyprus/cvsroot/3rdi/desktop/${build-directory}/${war-file-name}"
+			war="file:/home/psyprus/cvsroot/3rdi/${project-name}/${build-directory}/${war-file-name}"
 		/>
 	</target>
 	
